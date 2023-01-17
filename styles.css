@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    user-select: none;
+}
+
+#colour {
+    width: 13em;
+    height: 8em;
+  }
+  
+  h1 {
+    font-family: sans-serif;
+    color: rgb(225, 229, 233);
+    text-align: center;
+    font-size: 80px;
+  }
+  
+  .container {
+      width: 100%;
+      height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+  }
+  
